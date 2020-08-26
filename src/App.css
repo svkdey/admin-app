@@ -1,0 +1,50 @@
+.key-title{
+    font-weight: 700;
+}
+.header{
+    font-size: 1.25rem;
+}
+.dark{
+    color: black; 
+}
+.dark2{
+    color: grey;
+    font-size:.9rem;
+    word-wrap: break-word;
+}
+.APPLIED{
+    color: orange;
+}
+.IN{
+    color: blue;
+}
+.COMPLETE{
+    color:red
+}
+.header{
+    font-weight: 800;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+@media all and (min-width: 1001px) {
+   #wrap{
+       flex-direction: row !important;
+   }
+  }
+  
+  @media all and (max-width: 1000px) and (min-width: 700px) {
+    .main-container{
+        height: 100%;
+        flex-direction: column;
+    
+    }
+    
+  }
+  
+  @media all and (max-width: 699px) and (min-width: 520px), (min-width: 1151px) {
+    .main-container{
+        height: 100%;
+        flex-direction: column;
+    
+    }
+    
+  }

@@ -1,0 +1,59 @@
+{
+  "applications": [
+    {
+      "id": 6,
+      "name": "Souvik5",
+      "surname": "Dey5",
+      "contact": "9874528344",
+      "email": "svkdey9@gmail.com",
+      "role": "SDE1",
+      "status": "COMPLETE",
+      "tech": "fullstack",
+      "date": "2020-08-24T18:27:36.656Z"
+    },
+    {
+      "id": 7,
+      "name": "Souvik4",
+      "surname": "Dey4",
+      "contact": "9874528344",
+      "email": "svkdey9@gmail.com",
+      "role": "SDE1",
+      "status": "IN PROGRESS",
+      "tech": "fullstack",
+      "date": "2020-08-24T17:55:58.405Z"
+    },
+    {
+      "id": 8,
+      "name": "Souvik3",
+      "surname": "Dey3",
+      "contact": "9874528344",
+      "email": "svkdey9@gmail.com",
+      "tech": "fullstack",
+      "role": "SDE1",
+      "status": "applied",
+      "date": "2020-08-24T11:52:16.476Z"
+    },
+    {
+      "id": 9,
+      "name": "Souvik2",
+      "surname": "Dey2",
+      "contact": "9874528344",
+      "email": "svkdey9@gmail.com",
+      "role": "SDE1",
+      "status": "IN PROGRESS",
+      "tech": "fullstack",
+      "date": "2020-08-24T18:28:26.200Z"
+    },
+    {
+      "id": 10,
+      "name": "Souvik1",
+      "surname": "Dey1",
+      "contact": "9874528344",
+      "email": "svkdey9@gmail.com",
+      "tech": "fullstack",
+      "role": "SDE1",
+      "status": "applied",
+      "date": "2020-08-24T11:52:16.476Z"
+    }
+  ]
+}
