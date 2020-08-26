@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/admin-app/static/css/main.c57b103d.chunk.css",
+    "main.js": "/admin-app/static/js/main.a79a63c4.chunk.js",
+    "main.js.map": "/admin-app/static/js/main.a79a63c4.chunk.js.map",
+    "runtime-main.js": "/admin-app/static/js/runtime-main.e04b882a.js",
+    "runtime-main.js.map": "/admin-app/static/js/runtime-main.e04b882a.js.map",
+    "static/css/2.36020323.chunk.css": "/admin-app/static/css/2.36020323.chunk.css",
+    "static/js/2.21489308.chunk.js": "/admin-app/static/js/2.21489308.chunk.js",
+    "static/js/2.21489308.chunk.js.map": "/admin-app/static/js/2.21489308.chunk.js.map",
+    "index.html": "/admin-app/index.html",
+    "precache-manifest.4b6638547a828fe1ba79e1df466f7ede.js": "/admin-app/precache-manifest.4b6638547a828fe1ba79e1df466f7ede.js",
+    "service-worker.js": "/admin-app/service-worker.js",
+    "static/css/2.36020323.chunk.css.map": "/admin-app/static/css/2.36020323.chunk.css.map",
+    "static/css/main.c57b103d.chunk.css.map": "/admin-app/static/css/main.c57b103d.chunk.css.map",
+    "static/js/2.21489308.chunk.js.LICENSE.txt": "/admin-app/static/js/2.21489308.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e04b882a.js",
+    "static/css/2.36020323.chunk.css",
+    "static/js/2.21489308.chunk.js",
+    "static/css/main.c57b103d.chunk.css",
+    "static/js/main.a79a63c4.chunk.js"
+  ]
+}
